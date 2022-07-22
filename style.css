@@ -1,0 +1,56 @@
+.main{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 50%;
+}
+.btn{
+    width: 10%;
+    height: 10%;
+    font-size: 30px;
+}
+#num1{
+    position: relative;
+    top: 36px;
+    right: -112px;
+}
+#num5{
+    position: relative;
+    top: 303px;
+    left: 45px;
+}
+#num2{
+    position: relative;
+    top: 147px;
+    right: 66px;
+}
+#num3{
+    position: relative;
+    top: 147px;
+    left: 169px;
+}
+#num4{
+    position: relative;
+    top: 303px;
+    left: -100px;
+}
+input{
+    background-color: aqua;
+    border: none;
+}
+button{
+    position: relative;
+    top: 173px;
+    left: -106px;
+    width: 52px;
+    height: 52px;
+    background-color: aqua;
+    border: none;
+}
+.ion-shuffle{
+    position: relative;
+    top: 164px;
+    left: -147px;
+    font-size: 30px;
+}
